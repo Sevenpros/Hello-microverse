@@ -1,19 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Mircroverse
 
-> Description the project.
+> This the project i built in other to check if i have a full working environments,  including linters, github workflows etc.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS
 
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -25,38 +21,27 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
+Browser
 
 ### Install
+Copy the repo and open index.html by browser
 
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Seth**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Sevenpros](https://github.com/Sevenpros)
+- Twitter: [@Bizimanaseth](https://twitter.com/bizimanaseth)
+- LinkedIn: [Sethbizimana](https://linkedin.com/in/sethbizimana)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
